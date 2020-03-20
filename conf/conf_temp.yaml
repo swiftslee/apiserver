@@ -1,0 +1,8 @@
+mysql:
+  host: xxx
+  port: xxx
+  db: xxx
+  username: xxx
+  password: xxx
+  max_open_conn: 5
+  max_idle_conn: 1
